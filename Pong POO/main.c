@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdbool.h>
-#include "Game.c"
+#include "Game.h"
+#include "paddle.h"
+#include "Ball.h"
 #include <SDL.h>
 #include "constants.h"
 #include <SDL_ttf.h>

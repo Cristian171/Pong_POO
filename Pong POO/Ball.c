@@ -1,15 +1,6 @@
-typedef struct 
-{
-    float x;
-    float y;
-    float width;
-    float height;
-    float vel_x;
-    float vel_y;
+#include "Ball.h"
 
-} Ball;
-
-void Ball_init(Ball* ball, float initial_x, float initial_y, float initial_speed) {
+void Ball_init(Ball* ball, float initial_x, float initial_y, float initial_speed){
     ball->x = initial_x;
     ball->y = initial_y;
     ball->width = 15;

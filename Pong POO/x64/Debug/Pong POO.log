@@ -1,0 +1,41 @@
+﻿  Ball.c
+  Game.c
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(6,5): error C2061: error de sintaxis: identificador 'Paddle'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(7,15): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(8,17): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(9,13): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(10,16): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(12,1): error C2059: error de sintaxis: '}'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(15,20): error C2143: error de sintaxis: falta ')' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(15,20): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(15,26): error C2059: error de sintaxis: ')'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(16,33): error C2143: error de sintaxis: falta ')' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(16,33): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(16,39): error C2059: error de sintaxis: ')'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(7,20): error C2143: error de sintaxis: falta ')' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(7,20): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(7,26): error C2059: error de sintaxis: ')'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(8,1): error C2054: se esperaba '(' a continuación de 'game'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(16,33): error C2143: error de sintaxis: falta ')' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(16,33): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(16,39): error C2059: error de sintaxis: ')'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.c(17,1): error C2054: se esperaba '(' a continuación de 'game'
+  main.c
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(5,5): error C2061: error de sintaxis: identificador 'Ball'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(6,12): error C2061: error de sintaxis: identificador 'paddle'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(6,12): error C2059: error de sintaxis: ';'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(7,15): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(8,17): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(9,13): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(10,16): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(12,1): error C2059: error de sintaxis: '}'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(15,20): error C2143: error de sintaxis: falta ')' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(15,20): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(15,26): error C2059: error de sintaxis: ')'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(16,33): error C2143: error de sintaxis: falta ')' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(16,33): error C2143: error de sintaxis: falta '{' delante de '*'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\Game.h(16,39): error C2059: error de sintaxis: ')'
+C:\Users\B09S205est\Documents\trabajo\Pong_POO\Pong POO\main.c(6,10): fatal  error C1083: No se puede abrir el archivo incluir: 'SDL.h': No such file or directory
+  Paddle.c
+  shape.c
+  Generando código...
